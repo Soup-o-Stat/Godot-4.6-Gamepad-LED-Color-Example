@@ -2,11 +2,7 @@
 
 A simple example showing how to control gamepad LED colors with smooth transitions in Godot Engine 4.6.
 
-<figure class="video_container">
- <video controls="true" allowfullscreen="true">
- <source src="./video.mp4" type="video/mp4">
- </video>
-</figure>
+[![video](https://github.com/Soup-o-Stat/Godot-4.6-Gamepad-LED-Color-Example/blob/main/video.mp4)
 
 ## Features
 
