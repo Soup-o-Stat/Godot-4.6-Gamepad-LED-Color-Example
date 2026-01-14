@@ -34,7 +34,7 @@ Input.set_joy_light(device_id, current_color)
 current_color = current_color.lerp(target_color, delta * fade_speed)
 ```
 
-## ⚙️ Configuration
+## Configuration
 
 - `device_id`: Gamepad device number (default: 0 = first connected gamepad)
 - `colors`: Array of Color objects to cycle through
