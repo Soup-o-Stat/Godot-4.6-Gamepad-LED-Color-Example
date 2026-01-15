@@ -2,7 +2,9 @@
 
 A simple example showing how to control gamepad LED colors with smooth transitions in Godot Engine 4.6.
 
-[![](https://github.com/Soup-o-Stat/Godot-4.6-Gamepad-LED-Color-Example/blob/main/video.mp4)](https://github.com/Soup-o-Stat/Godot-4.6-Gamepad-LED-Color-Example/blob/main/video.mp4)
+<p align="center">
+  <img src="https://github.com/Soup-o-Stat/Godot-4.6-Gamepad-LED-Color-Example/blob/main/video.gif" alt="gif" />
+</p>
 
 ## Features
 
