@@ -15,7 +15,7 @@ A simple example showing how to control gamepad LED colors with smooth transitio
 
 ## Quick Start
 
-1. **Clone the repository:**
+1. **Clone the repository**
 2. **Open godot_project in Godot 4.6+**
 3. **Connect a compatible gamepad** (PS4/PS5)
 4. **Run the project**
